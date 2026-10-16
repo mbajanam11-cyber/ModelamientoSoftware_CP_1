@@ -1,6 +1,7 @@
 # ModelamientoSoftware_CP_1
 
 Incorporación de trabajos prácticos 1y2
+
 Martin Javier Bajaña Mora - Software C2
 
 # Caso de estudio: Sistema de gestión de almacén de inventario
